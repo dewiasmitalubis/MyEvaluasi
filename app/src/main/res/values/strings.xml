@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyEvaluasi</string>
+    <string name="konversi_rupiah">Konversi Rupiah</string>
+    <string name="konversi_suhu">Konversi Suhu</string>
+    <string name="input_nilai_rupiah">Input Nilai Rupiah</string>
+    <string name="hasil">Hasil</string>
+    <string name="hitung">CONVERT</string>
+    <string name="celcius">Celcius</string>
+    <string name="farenheit">Hasil Konversi Farenheit</string>
+    <string name="kelvin">Hasil Konversi Kelvin</string>
+    <string name="reamur">Hasil Konversi Reamur</string>
+</resources>
